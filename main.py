@@ -1,6 +1,6 @@
 def main() -> None:
     for _ in range(10):
-        print("hello world")
+        print("Hello, world!")
 
 
 if __name__ == "__main__":
